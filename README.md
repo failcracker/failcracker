@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **failcracker/failcracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - Saya ingin membangun aplikasi open source untuk semua kalangan. donasi anda yang membuat proyek ini tetap berjalan
-<!---
+-
 failcracker/failcracker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-
 
